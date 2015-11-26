@@ -63,7 +63,7 @@ Okay that works but gives some errors that even as root we can not delete some
 data in /sys. This is because sys does not only contain files but also hardware
 access. Docker does never allow access to those parts of the host.
 
-Well, now we are in a pickle. Most commands we now are gone, just try
+Well, now we are in a pickle. Most commands we know are gone, just try
 
 ```bash
 cp

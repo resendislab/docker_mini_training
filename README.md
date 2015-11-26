@@ -9,7 +9,7 @@ a demo of the cobbrapy docker container.
 
 If you want to run the live parts yourself you will need docker installed on your machine. There are detailed
 installation instructions for [Ubuntu](https://docs.docker.com/engine/installation/ubuntulinux/), 
-[MacOS](https://docs.docker.com/engine/installation/mac/) and [Windows](https://docs.docker.com/engine/installation/windows/) 
+[Mac OSX](https://docs.docker.com/engine/installation/mac/) and [Windows](https://docs.docker.com/engine/installation/windows/) 
 on the docker home page. However, it is not necessary that you install docker for the training, you can just drag along.
 
 ### Material
@@ -19,7 +19,7 @@ on the docker home page. However, it is not necessary that you install docker fo
 1. [A very simple introduction to PaaS and Docker](https://speakerdeck.com/speakerdeck/introduction-to-speakerdeck)
 2. [The docker command](docker_command.md) 
 3. [Wrecking a Debian installation](wrecking_debian.md)
-4. [Docker files and Docker Hub](docker_extra.md)
+4. [Docker files and automated builds](docker_extra.md)
 
 #### Jupyter + CobraPy
 
