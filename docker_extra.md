@@ -72,7 +72,7 @@ This will pull all the necessary images and build his vadercow image. Your frien
 is happy to see that the following works
 
 ```
-docker run vadercow "I am still a cow"
+docker run --rm vadercow "I am still a cow"
 ```
 
 He makes the following adjustment to the build file
