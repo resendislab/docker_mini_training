@@ -3,7 +3,7 @@
 ## Mini training
 
 Here you find the materials for my docker mini training from December 1, 2015. It consists of a short intro to docker followed by
-a demo of the cobbrapy docker container.
+a demo of the [cobrapy docker container](https://github.com/cdiener/cobra-docker).
 
 ### Installation
 
@@ -16,7 +16,7 @@ on the docker home page. However, it is not necessary that you install docker fo
 
 #### Intro to Docker
 
-1. [A very simple introduction to PaaS and Docker](https://speakerdeck.com/speakerdeck/introduction-to-speakerdeck)
+1. [A very simple introduction to PaaS and Docker](https://speakerdeck.com/cdiener/docker-mini-training)
 2. [The docker command](docker_command.md) 
 3. [Wrecking a Debian installation](wrecking_debian.md)
 4. [Docker files and automated builds](docker_extra.md)
