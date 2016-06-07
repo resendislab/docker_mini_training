@@ -8,8 +8,8 @@ a demo of the [cobrapy docker container](https://github.com/cdiener/cobra-docker
 ### Installation
 
 If you want to run the live parts yourself you will need docker installed on your machine. There are detailed
-installation instructions for [Ubuntu](https://docs.docker.com/engine/installation/ubuntulinux/), 
-[Mac OSX](https://docs.docker.com/engine/installation/mac/) and [Windows](https://docs.docker.com/engine/installation/windows/) 
+installation instructions for [Ubuntu](https://docs.docker.com/linux/), 
+[Mac OSX](https://docs.docker.com/mac/) and [Windows](https://docs.docker.com/windows/) 
 on the docker home page. However, it is not necessary that you install docker for the training, you can just drag along.
 
 ### Material
