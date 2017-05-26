@@ -3,8 +3,6 @@
 ## Mini training
 
 Here you find the materials for my docker mini training.
-It consists of a short intro to docker followed by
-a demo of the [cobrapy docker container](https://github.com/cdiener/cobra-docker).
 
 ### Installation
 
