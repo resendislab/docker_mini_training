@@ -2,6 +2,7 @@
 
 import sys
 
+
 def extract(filename):
     incode = False
     count = 1
@@ -9,14 +10,15 @@ def extract(filename):
         for l in mdfile:
             if l.find("```") > -1:
                 incode = not incode
-                if incode: 
+                if incode:
                     codefile.write("### Block {} ###\n".format(count))
                     count += 1
-                else: codefile.write("\n")
+                else:
+                    codefile.write("\n")
             elif incode:
                 codefile.write(l)
-                
+
 
 if __name__ == "__main__":
-     success = [extract(f) for f in sys.argv]
-     print("Extracted code for all markdownfiles into file.md.code.")
+    success = [extract(f) for f in sys.argv]
+    print("Extracted code for all markdownfiles into file.md.code.")
